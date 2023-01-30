@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Rahul1",
+    "mobile": "1234567890",
+    "email": "abcd1@gmail.com"
+
+  },
+  {
+    "name": "Hareesh",
+    "mobile": "1234567891",
+    "email": "abcd2@gmail.com"
+
+  },
+  {
+    "name": "Venkatesh",
+    "mobile": "1234567892",
+    "email": "abcd3@gmail.com"
+
+  },
+  {
+    "name": "Ashok",
+    "mobile": "1234567893",
+    "email": "abcd4@gmail.com"
+
+  }
+]
